@@ -79,12 +79,13 @@ ul {
 
 
 header {
-    background:linear-gradient(rgba(63, 208, 212, 0.7),rgba(0, 0, 0, 0.7)), url('../images/main.jpeg');
+    background:linear-gradient(rgba(63, 208, 212, 0.7),rgba(0, 0, 0, 0.7)), url('../images/main.jpeg'),
+    url('../images/tour-1.jpeg') ;
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
     width:100%;
-    height: 98vh;
+    height: 90vh;
     position:relative;
 }
 

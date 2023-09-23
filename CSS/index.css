@@ -21,7 +21,7 @@
     overflow-x:none;
 }
 
-h2{
+h3{
     font-family:'Lato', san-serif; 
 }
 /*
@@ -127,6 +127,5 @@ header {
 
 .content a:hover {
     background:transparent;
-    color:var(--mainWhite);
     transition:var(--mainTransition)
 }

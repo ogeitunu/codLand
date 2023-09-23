@@ -118,7 +118,6 @@ header {
 
 .content a {
     background-color:var(--mainWhite);
-    color:var(--primmary);
     padding:1.15rem 2.5rem;
     font-size:1.75rem;
     text-transform:uppercase;
